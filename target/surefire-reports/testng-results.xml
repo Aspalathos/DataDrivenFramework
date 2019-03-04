@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Data Driven Basics" duration-ms="3489" started-at="2019-03-04T23:05:02 CET" finished-at="2019-03-04T23:05:05 CET">
+    <groups>
+    </groups>
+    <test name="LoginTest" duration-ms="3489" started-at="2019-03-04T23:05:02 CET" finished-at="2019-03-04T23:05:05 CET">
+      <class name="com.acopic.testcases.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.acopic.testcases.LoginTest@223d2c72]" name="setUp" is-config="true" duration-ms="4584" started-at="2019-03-04T23:04:57 CET" finished-at="2019-03-04T23:05:02 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginAsBankManager()[pri:0, instance:com.acopic.testcases.LoginTest@223d2c72]" name="loginAsBankManager" duration-ms="3456" started-at="2019-03-04T23:05:02 CET" finished-at="2019-03-04T23:05:05 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAsBankManager -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.acopic.testcases.LoginTest@223d2c72]" name="tearDown" is-config="true" duration-ms="114" started-at="2019-03-04T23:05:05 CET" finished-at="2019-03-04T23:05:05 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.acopic.testcases.LoginTest -->
+    </test> <!-- LoginTest -->
+  </suite> <!-- Data Driven Basics -->
+</testng-results>
